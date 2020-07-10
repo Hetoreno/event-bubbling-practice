@@ -1,0 +1,13 @@
+button{
+    cursor: pointer;
+}
+
+.color{
+    color: red;
+    font-size: 8rem;
+    
+}
+
+.new{
+    transition: all 0.5s ease ;
+}
